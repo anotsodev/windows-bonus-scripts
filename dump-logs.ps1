@@ -1,4 +1,4 @@
-#
+#  https://eventlogxp.com/blog/exporting-event-logs-with-windows-powershell/ = credits here
 #  This script exports consolidated and filtered event logs to CSV
 #
 
