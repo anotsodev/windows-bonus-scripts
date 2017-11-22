@@ -1,0 +1,1 @@
+﻿ROBOCOPY C:\inetpub\wwwroot\mysite1 \\WIN-SER-WEBFTP2\wwwroot\mysite1 /MIR /MON:1
