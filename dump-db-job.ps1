@@ -1,1 +1,1 @@
-cmd.exe /c "mysql -u kylehalog -pN0virus01 event_logs < c:\ser-logfiles\dump-log.sql"
+cmd.exe /c "mysql -u kylehalog -pxxxxx event_logs < c:\ser-logfiles\dump-log.sql"
